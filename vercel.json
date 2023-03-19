@@ -2,6 +2,6 @@
 {
 	"version": 2,
 	"routes": [
-		{"src": "/(.*)","dest": "https://img.1703.site/file/$1"}
+		{"src": "/(.*)","dest": "https://cfimg.1703.site/file/$1"}
 	]
 }
